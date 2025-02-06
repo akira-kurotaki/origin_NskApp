@@ -1,0 +1,37 @@
+﻿@{
+    var menu = SessionUtil.Get<List<MenuItem>>(InfraConst.SESS_MENU_LIST, this.Context) == null ? new List<MenuItem>() : SessionUtil.Get<List<MenuItem>>(InfraConst.SESS_MENU_LIST, this.Context);
+    var tabindex = 3;
+}
+<i></i>
+@foreach (var item in menu)
+{
+    <div>
+        <h4>
+            <a href="javascript:void(0);" class="normal_style tab" tabindex="@(tabindex++)"><b class="eq_active_h4_b">@item.Text</b></a>
+        </h4>
+        @if (item.ChildItems != null)
+        {
+            <ul class="left_sub_menu">
+                @foreach (var child in item.ChildItems)
+                {
+                    string screenId = child.ScreenId;
+                    string action = "javascript:void(0);";
+                    if (!string.IsNullOrEmpty(screenId))
+                    {
+                        if ("D8004".Equals(screenId))
+                        {
+                            CoreConst.ScreenMode screenMode = SessionUtil.Get<CoreConst.ScreenMode>(CoreConst.SESS_SCREEN_MODE, this.Context);
+                            action = string.Format("javascript: windowSizeOpen(\"{0}?sm={1}\", \"{2}\", 1000, 600);closeNavi();",
+                                ConfigUtil.Get("UserInfoListUrl"), screenMode.Equals(CoreConst.ScreenMode.PC) ? CoreConst.SCREEN_MODE_PC_HASH : CoreConst.SCREEN_MODE_TABLET_HASH, screenId);
+                        }
+                        else
+                        {
+                            action = Url.Action("Link", "C0000", new { area = "F00" }) + "?" + InfraConst.MENU_REQUEST_QUERYSTRING + "=" + screenId;
+                        }
+                    }
+                    <li><a href="@action" tabindex="@(tabindex++)"><p>@child.Text</p></a></li>
+                }
+            </ul>
+        }
+    </div>
+}

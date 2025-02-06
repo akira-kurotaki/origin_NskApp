@@ -1,0 +1,38 @@
+﻿@model BaseWeb.Areas.F00.Models.D0001.D0001Model
+@{
+    ViewBag.HeaderPatternId = CoreConst.HEADER_PATTERN_ID_1;
+    CoreConst.ScreenMode screenMode = SessionUtil.Get<CoreConst.ScreenMode>(CoreConst.SESS_SCREEN_MODE, this.Context);
+}
+<div class="table-thead-container ">
+    <div class="main_title btn_group_left mt_5">
+        <h3>ポータル</h3>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<div class="text-end">
+    @if (SessionUtil.Get<DateTime?>(F00Const.SESS_LAST_LOGIN_DATETIME, this.Context) != null)
+    {
+        <span>
+            前回のログイン日時は
+            @Model.VSyokuinRecords.LastLoginDate.Value.ToString(F00Const.YYYYMMDD_HHmm_WITH_SLASH)
+            です。
+        </span>
+    }
+</div>
+
+@if (Model.PwdLabDisplay)
+{
+    <div class="text-end">最後にパスワードを変更してから6か月以上経過しました。</div>
+}
+
+@section styles {
+    <style type="text/css">
+
+    </style>
+}
+
+@section scripts {
+    <script type="text/javascript">
+
+    </script>
+}
