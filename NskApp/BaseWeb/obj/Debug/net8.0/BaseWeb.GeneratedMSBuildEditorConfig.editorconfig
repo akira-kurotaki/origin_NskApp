@@ -1,0 +1,229 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BaseWeb
+build_property.RootNamespace = BaseWeb
+build_property.ProjectDir = C:\Users\a_kurotaki\Desktop\ICS_資料\NOSAIWeb\NskApp\BaseWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\a_kurotaki\Desktop\ICS_資料\NOSAIWeb\NskApp\BaseWeb
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F00/Views/C0000/C0000.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAwXFZpZXdzXEMwMDAwXEMwMDAwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F00/Views/C0001/C0001.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAwXFZpZXdzXEMwMDAxXEMwMDAxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F00/Views/D0000/D0000_Pre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAwXFZpZXdzXEQwMDAwXEQwMDAwX1ByZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F00/Views/D0001/D0001.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAwXFZpZXdzXEQwMDAxXEQwMDAxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F00/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAwXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F00/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAwXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F01/Views/D0101/D0101.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAxXFZpZXdzXEQwMTAxXEQwMTAxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F01/Views/D0101/_D0101SearchResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAxXFZpZXdzXEQwMTAxXF9EMDEwMVNlYXJjaFJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F01/Views/D0102/D0102.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAxXFZpZXdzXEQwMTAyXEQwMTAyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F01/Views/D0102/_D0102Partial1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAxXFZpZXdzXEQwMTAyXF9EMDEwMlBhcnRpYWwxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F01/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAxXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F01/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAxXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F02/Views/D0201/D0201.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAyXFZpZXdzXEQwMjAxXEQwMjAxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F02/Views/D0201/_D0201SearchResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAyXFZpZXdzXEQwMjAxXF9EMDIwMVNlYXJjaFJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F02/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F02/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjAyXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F04/Views/D0401/D0401.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjA0XFZpZXdzXEQwNDAxXEQwNDAxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F04/Views/D0401/_D0401DataReflection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjA0XFZpZXdzXEQwNDAxXF9EMDQwMURhdGFSZWZsZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F04/Views/D0401/_D0401SearchResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjA0XFZpZXdzXEQwNDAxXF9EMDQwMVNlYXJjaFJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F04/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjA0XFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F04/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjA0XFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F90/Views/D9001/D9001.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjkwXFZpZXdzXEQ5MDAxXEQ5MDAxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F90/Views/D9002/D9002.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjkwXFZpZXdzXEQ5MDAyXEQ5MDAyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F90/Views/D9002/D9003.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjkwXFZpZXdzXEQ5MDAyXEQ5MDAzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F90/Views/D9004/D9004.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjkwXFZpZXdzXEQ5MDA0XEQ5MDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F90/Views/D9006/D9006.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjkwXFZpZXdzXEQ5MDA2XEQ5MDA2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F90/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjkwXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F90/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjkwXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F99/Views/D9901/D9901Partern1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjk5XFZpZXdzXEQ5OTAxXEQ5OTAxUGFydGVybjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F99/Views/D9901/D9901Partern2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjk5XFZpZXdzXEQ5OTAxXEQ5OTAxUGFydGVybjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F99/Views/D9902/D9902.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjk5XFZpZXdzXEQ5OTAyXEQ5OTAyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F99/Views/D9902/_D9902DataLock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjk5XFZpZXdzXEQ5OTAyXF9EOTkwMkRhdGFMb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F99/Views/D9902/_D9902SysLock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjk5XFZpZXdzXEQ5OTAyXF9EOTkwMlN5c0xvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F99/Views/D9905/D9905.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjk5XFZpZXdzXEQ5OTA1XEQ5OTA1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F99/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjk5XFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Areas/F99/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRjk5XFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/DisplayTemplates/DateTime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERpc3BsYXlUZW1wbGF0ZXNcRGF0ZVRpbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/DropDownTemplates/_Hidden_Todofuken.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERyb3BEb3duVGVtcGxhdGVzXF9IaWRkZW5fVG9kb2Z1a2VuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/DropDownTemplates/_TodofukenDropDownList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERyb3BEb3duVGVtcGxhdGVzXF9Ub2RvZnVrZW5Ecm9wRG93bkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/EditorTemplates/DateTime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xEYXRlVGltZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/_HelpFaqMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWxwRmFxTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/_HiddenWindowId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IaWRkZW5XaW5kb3dJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/_LayoutBodyOnly.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRCb2R5T25seS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/_LeftMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MZWZ0TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/Shared/_Location.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2NhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a_kurotaki/Desktop/ICS_資料/NOSAIWeb/NskApp/BaseWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

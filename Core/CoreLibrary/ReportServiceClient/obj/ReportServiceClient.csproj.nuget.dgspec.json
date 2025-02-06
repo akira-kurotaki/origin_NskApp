@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\ReportServiceClient\\ReportServiceClient.csproj": {}
+    "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\ReportServiceClient\\ReportServiceClient.csproj": {}
   },
   "projects": {
-    "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\CommonLibrary.csproj": {
+    "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\CommonLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\CommonLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\CommonLibrary.csproj",
         "projectName": "CommonLibrary",
-        "projectPath": "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\CommonLibrary.csproj",
-        "packagesPath": "C:\\Users\\inabe_naoyuki\\.nuget\\packages\\",
-        "outputPath": "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\obj\\",
+        "projectPath": "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\CommonLibrary.csproj",
+        "packagesPath": "C:\\Users\\a_kurotaki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\inabe_naoyuki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a_kurotaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -23,7 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://repodev-a.ad.ics.co.jp:8443/repository/nuget.org-proxy/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -40,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -91,21 +96,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\ReportServiceClient\\ReportServiceClient.csproj": {
+    "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\ReportServiceClient\\ReportServiceClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\ReportServiceClient\\ReportServiceClient.csproj",
+        "projectUniqueName": "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\ReportServiceClient\\ReportServiceClient.csproj",
         "projectName": "ReportServiceClient",
-        "projectPath": "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\ReportServiceClient\\ReportServiceClient.csproj",
-        "packagesPath": "C:\\Users\\inabe_naoyuki\\.nuget\\packages\\",
-        "outputPath": "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\ReportServiceClient\\obj\\",
+        "projectPath": "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\ReportServiceClient\\ReportServiceClient.csproj",
+        "packagesPath": "C:\\Users\\a_kurotaki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\ReportServiceClient\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\inabe_naoyuki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a_kurotaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,14 +123,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://repodev-a.ad.ics.co.jp:8443/repository/nuget.org-proxy/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\CommonLibrary.csproj": {
-                "projectPath": "C:\\inabe\\Web農作物\\02_Source\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\CommonLibrary.csproj"
+              "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\CommonLibrary.csproj": {
+                "projectPath": "C:\\Users\\a_kurotaki\\Desktop\\ICS_資料\\NOSAIWeb\\Core\\CoreLibrary\\CommonLibrary\\CommonLibrary.csproj"
               }
             }
           }
@@ -135,7 +144,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -156,7 +166,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
